@@ -18,7 +18,6 @@ Custom WordPress website developed for Nekhon Elevators, a reliable provider of 
 - Testimonials carousel with real client quotes praising smooth operation, design, installation quality, and reliability
 - Brand support: Services for major brands (Otis, Kone, Johnson, Thyssenkrupp, Hyundai, Fujitec, Schindler Jonsun, etc.)
 - 24/7 emergency support & Annual Maintenance Contracts (AMC) emphasis
-- Contact section with phone (+91 7790826917), email (Vikramsingh571986@gmail.com), and inquiry form
 - Responsive design optimized for technical service visuals and urgent needs (mobile-first)
 - SEO-friendly for local lift/elevator searches
 
